@@ -1,5 +1,5 @@
 ## Hi there 👋
-![GitHub Contribution Graph](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
 <!--
 **momotot/momotot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
